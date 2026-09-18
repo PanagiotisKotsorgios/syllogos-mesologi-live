@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/syllogos-mesologi-live/static/css/main.eee3d3ed.css",
-    "main.js": "/syllogos-mesologi-live/static/js/main.c159e43b.js",
+    "main.css": "/syllogos-mesologi-live/static/css/main.1c21433c.css",
+    "main.js": "/syllogos-mesologi-live/static/js/main.fb4a369c.js",
     "index.html": "/syllogos-mesologi-live/index.html",
-    "main.eee3d3ed.css.map": "/syllogos-mesologi-live/static/css/main.eee3d3ed.css.map",
-    "main.c159e43b.js.map": "/syllogos-mesologi-live/static/js/main.c159e43b.js.map"
+    "main.1c21433c.css.map": "/syllogos-mesologi-live/static/css/main.1c21433c.css.map",
+    "main.fb4a369c.js.map": "/syllogos-mesologi-live/static/js/main.fb4a369c.js.map"
   },
   "entrypoints": [
-    "static/css/main.eee3d3ed.css",
-    "static/js/main.c159e43b.js"
+    "static/css/main.1c21433c.css",
+    "static/js/main.fb4a369c.js"
   ]
 }
