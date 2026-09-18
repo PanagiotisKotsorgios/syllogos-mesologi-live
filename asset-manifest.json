@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/syllogos-mesologi-live/static/css/main.eee3d3ed.css",
+    "main.js": "/syllogos-mesologi-live/static/js/main.c159e43b.js",
+    "index.html": "/syllogos-mesologi-live/index.html",
+    "main.eee3d3ed.css.map": "/syllogos-mesologi-live/static/css/main.eee3d3ed.css.map",
+    "main.c159e43b.js.map": "/syllogos-mesologi-live/static/js/main.c159e43b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee3d3ed.css",
+    "static/js/main.c159e43b.js"
+  ]
+}
